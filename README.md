@@ -1,5 +1,5 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hi Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Lean, also known as Salvi Lp</h1>
+<h1 align="center">Hi Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Leandro Espinoza</h1>
 <h3 align="center">⚙️ Industrial engineer diving into data analytics with a focus on data-driven decision-making. ⚙️</h3>
 <h3 align="center">✍🏻 Passionate about exploring datasets and applying machine learning techniques to solve real-world problems. ✍🏻</h3>
 <h3 align="center">📊 📚 Currently learning and sharing insights on Kaggle, with a goal of blending my project management expertise with data science. 📚 📊</h3>
